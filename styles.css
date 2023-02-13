@@ -220,7 +220,7 @@ nav ul li a:hover {
 .layer {
   width: 100%;
   height: 0;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), #c49b99);
+  background: linear-gradient(rgba(0, 0, 0, 0.6), #efb523);
   border-radius: 10px;
   position: absolute;
   left: 0;
@@ -245,7 +245,7 @@ nav ul li a:hover {
 
 .layer a {
   margin-top: 20px;
-  color: #ff004f;
+  color: #827e7b;
   text-decoration: none;
   font-size: 18px;
   line-height: 60px;
