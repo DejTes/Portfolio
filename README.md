@@ -9,7 +9,6 @@ you can check a live demo of the portfolio [here](https://dejtes-portfolio.netli
 ## _Technologies used_
 ####  The following technologies were used to develop this portfolio
 ---
----
 - HTML
 - CSS
 - JAVASCRIPT
@@ -26,8 +25,9 @@ you can check a live demo of the portfolio [here](https://dejtes-portfolio.netli
 * Contact section to reach out the developer.
 
 ---
+---
 ## Challenges faced during development
-Challenges i have faced as a beginner software developer,
+Challenges i have faced as a beginner software developer:
 
 * Designing 
 * choosing the right technologies.
