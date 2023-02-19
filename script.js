@@ -14,7 +14,6 @@
 
   const tablinks = $(".tab-links");
   const tabcontents = $(".tab-contents");
-
   function opentab(tabname) {
     tablinks.removeClass("active-link");
     tabcontents.removeClass("active-tab");
@@ -22,6 +21,8 @@
     $(event.currentTarget).addClass("active-link");
     $("#" + tabname).addClass("active-tab");
   }
+
+
 
 //enable hidden nav bar
 // const nav = document.querySelector(".sticky-nav");
@@ -37,6 +38,7 @@
 // });
 
 //enanbling hidden nav bar
+  
   const nav = $(".sticky-nav");
   let lastScrollY = $(window).scrollTop();
   $(window).scroll(function () {
@@ -48,6 +50,7 @@
     lastScrollY = $(window).scrollTop();
   });
 
+
 //side menu
 // let sidemenu = document.getElementById("sidemenu");
 // function openmenu() {
@@ -58,6 +61,7 @@
 // }
 
 //side menu jquery
+
 let sidemenu = $("#sidemenu");
 function openmenu() {
   sidemenu.css("right", "0");
